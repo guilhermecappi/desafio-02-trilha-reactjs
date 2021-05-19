@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'react';
-import { api } from './services/api';
+import { useState } from 'react';
 
 // import { SideBar } from './components/SideBar';
 import { SideBar } from './components/SideBar';
